@@ -1,5 +1,6 @@
 # TWSIP_2
-Flipkart Clone is done with top-notch features for the entrepreneur startups like Flipkart.
+
+https://vedapriya17.github.io/TWSIP_2/ Flipkart Clone is done with top-notch features for the entrepreneur startups like Flipkart.
 - It has strong authentication system  with SMS OTP verification. 
 - It has Paytm Integration so that it can get money from anywhere.
 
